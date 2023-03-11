@@ -1,0 +1,52 @@
+{
+    "folders": [
+        {
+            "folderName": "folder1",
+            "hasSubFolder": true,
+            "subFolders": [
+                {
+                    "subFolderName": "subFolder1",
+                    "hasSubFolder": false,
+                    "subFolders" : []
+                },
+                {
+                    "subFolderName": "subFolder2",
+                    "hasSubFolder": false,
+                    "subFolders": [] 
+                }
+            ]
+        },
+        {
+            "folderName": "folder2",
+            "hasSubFolder": true,
+            "subFolders": [
+                {
+                    "subFolderName": "subFolder1",
+                    "hasSubFolder": false,
+                    "subFolders" : []
+                },
+                {
+                    "subFolderName": "subFolder2",
+                    "hasSubFolder": false,
+                    "subFolders": [] 
+                }
+            ]
+        },
+        {
+            "folderName": "folder3",
+            "hasSubFolder": true,
+            "subFolders": [
+                {
+                    "subFolderName": "subFolder1",
+                    "hasSubFolder": false,
+                    "subFolders" : []
+                },
+                {
+                    "subFolderName": "subFolder2",
+                    "hasSubFolder": false,
+                    "subFolders": [] 
+                }
+            ]
+        }
+    ]
+}
